@@ -60,8 +60,6 @@ GROUP BY Location, Population
 --ORDER BY PercentagePopulationInfected desc
 
 
-
-
 SELECT
     location,
     date,
@@ -130,9 +128,6 @@ FROM
 --WHERE location like '%states%'
 GROUP BY Location, Population
 --ORDER BY PercentagePopulationInfected desc
-
-
-
 
 SELECT
     location,
